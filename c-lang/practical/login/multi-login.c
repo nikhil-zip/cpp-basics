@@ -6,15 +6,21 @@ int main() {
     char username[20];
     char password[20];
 
-    char usernames[3][20] = {
+    char usernames[6][20] = {
         "admin",
         "nikhil",
-        "student"
+        "student",
+        "hin",
+        "nikil",
+        "stnt"
     };
-    char passwords[3][20] = {
+    char passwords[6][20] = {
         "1234",
         "5678",
-        "1111"
+        "1111",
+        "12343",
+        "56738",
+        "1131"
     };
 
     int login = 0;
@@ -25,7 +31,7 @@ int main() {
     printf("Enter password: ");
     scanf("%s", password);
 
-    for (int i = 0; i < 3; i++) {
+    for (int i = 0; i < 6; i++) {
 
         if (strcmp(username, usernames[i]) == 0 &&
             strcmp(password, passwords[i]) == 0) {
