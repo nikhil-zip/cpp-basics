@@ -58,7 +58,7 @@ This project allows users to create accounts, sign in, deposit money, borrow mon
 
 # 📂 Project Structure
 
-```text
+text
 bank-management-system/
 │
 ├── main.cpp
@@ -66,7 +66,7 @@ bank-management-system/
 ├── data.txt
 ├── Project3.exe
 └── README.md
-```
+
 
 ---
 
@@ -74,15 +74,15 @@ bank-management-system/
 
 ## Step 1: Clone Repository
 
-```bash
+bash
 git clone https://github.com/nikhil-mca-code/bank-management-system.git
-```
+
 
 Move into project folder:
 
-```bash
+bash
 cd bank-management-system
-```
+
 
 ---
 
@@ -96,9 +96,9 @@ Recommended:
 
 After installation verify:
 
-```bash
+bash
 g++ --version
-```
+
 
 ---
 
@@ -108,9 +108,9 @@ Open terminal inside project folder.
 
 Compile:
 
-```bash
+bash
 g++ main.cpp -o bank.exe
-```
+
 
 ---
 
@@ -118,15 +118,15 @@ g++ main.cpp -o bank.exe
 
 Run executable:
 
-```bash
+bash
 .\bank.exe
-```
+
 
 or
 
-```bash
+bash
 bank.exe
-```
+
 
 ---
 
@@ -136,11 +136,11 @@ bank.exe
 
 When program starts:
 
-```text
+text
 1. Sign in
 2. Registration
 3. Exit
-```
+
 
 ### Registration
 - Create username
@@ -155,20 +155,20 @@ Login using:
 
 After login:
 
-```text
+text
 1. Actions with card
 2. Check balance
 0. Exit
-```
+
 
 Inside card actions:
 
-```text
+text
 1. Deposit
 2. Borrow money
 3. Return money
 0. Exit
-```
+
 
 ---
 
@@ -176,21 +176,21 @@ Inside card actions:
 
 Account data is stored in:
 
-```text
+text
 data.txt
-```
+
 
 Format:
 
-```text
+text
 name|password|balance|borrowed|
-```
+
 
 Example:
 
-```text
+text
 nikhil|1234|5000|1000|
-```
+
 
 ---
 
