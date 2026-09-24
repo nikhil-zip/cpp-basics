@@ -24,3 +24,9 @@ int main() {
 
     return 0;
 }
+// a = 10  : Assigns the value 10 to variable a
+// a += 5   : Adds 5 to a and assigns the result back to a
+// a -= 3   : Subtracts 3 from a and assigns the result back to a
+// a *= 2   : Multiplies a by 2 and assigns the result back to a
+// a /= 4   : Divides a by 4 and assigns the result back to a
+// a %%= 3   : Calculates the remainder of a divided by 3 and assigns the result back to a

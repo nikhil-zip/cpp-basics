@@ -11,3 +11,6 @@ int main() {
 
     return 0;
 }
+// AND (&&): Returns true if both conditions are true
+// OR (||): Returns true if at least one condition is true
+// NOT (!): Returns true if the condition is false
