@@ -2,7 +2,7 @@
  int main()
  {
     int a,b,c;
-    printf("Enter length of Triangle in cm:");
+    printf("Enter length of Triangle:");
     scanf("%d %d %d", &a, &b, &c);
     if ((a==b)&& (b==c))
     printf("It is a Equilateral Triangle.");
