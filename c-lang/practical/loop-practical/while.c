@@ -11,3 +11,6 @@ int main()
     printf("Sum of first 10 natural numbers: %d\n", sum);
     return 0;
 }
+// difference between while loop and for loop is that
+// while loop is used when the number of iterations is not known,       
+// for loop is used when the number of iterations is known.
