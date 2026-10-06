@@ -3,7 +3,10 @@ int main()
 {
     int i;
     int m=20, n=49;
-
+    
+    for(i=m; i<=n;i++){
+        printf("%d\n", i);
+    }
     for(i=m; i<=n;i++){
         if(i%2==0)
         {
