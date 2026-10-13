@@ -4,8 +4,11 @@
 int factorial(int n);
 
 int main() {
-    int number = 5;
+    int number;
+    printf("Enter the Number:");
+    scanf("%d", &number);
     int result = factorial(number);
+
     
     printf("Factorial of %d is %d\n", number, result);
     return 0;
