@@ -20,10 +20,11 @@ switch(op){
     printf("Result: %.2lf\n", a*b);
     break;
     case '/':  
-    if (b!=0)
+    if (b==0)
     {
     printf("Cannot divide by zero\n");
     } 
+    else 
     printf("Result: %.2lf\n", a/b);
     break;
     default:
