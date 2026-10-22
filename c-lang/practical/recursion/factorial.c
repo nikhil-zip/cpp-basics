@@ -5,7 +5,7 @@ int factorial(int n);
 
 int main() {
     int number;
-    printf("Enter the Number:");
+    printf("Enter the Number (1 to 31):");
     scanf("%d", &number);
     int result = factorial(number);
 

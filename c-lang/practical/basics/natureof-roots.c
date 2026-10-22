@@ -16,3 +16,4 @@ int main()
     printf("Complex Roots");
     return 0;
 }
+//d = b * b - 4 * a * c; main formula
