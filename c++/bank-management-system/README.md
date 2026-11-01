@@ -232,12 +232,12 @@ Current version:
 
 ---
 
-# 👨‍💻 Author
+# 👨‍💻 Retouched by-
 
 **Nikhil Singh**
 
 GitHub:  
-https://github.com/nikhil-mca-code
+https://github.com/nikhil-zip
 
 ---
 
