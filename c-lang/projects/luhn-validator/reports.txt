@@ -1,0 +1,16 @@
+Network: Unknown
+Category: Debit
+Masked number: **** **** ** 7402
+Length: PASS
+Prefix: FAIL
+Luhn: FAIL
+Result: INVALID
+
+Network: Visa
+Category: Credit
+Masked number: **** **** **** 1111
+Length: PASS
+Prefix: PASS
+Luhn: PASS
+Result: VALID
+
