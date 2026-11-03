@@ -4,7 +4,7 @@ int main()
     int arr[5];
     int largest, second_largest;
     int *ptr = arr;
-    printf("Enter 5 numbers:\n");
+    printf("Enter 5 numbers:");
     for(int i = 0; i < 5; i++)
     {
         scanf("%d", ptr + i);
