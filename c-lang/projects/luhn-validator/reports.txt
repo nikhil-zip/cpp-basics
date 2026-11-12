@@ -14,3 +14,11 @@ Prefix: PASS
 Luhn: PASS
 Result: VALID
 
+Network: Discover
+Category: Credit
+Masked number: **** **** **** 1090
+Length: PASS
+Prefix: PASS
+Luhn: PASS
+Result: VALID
+

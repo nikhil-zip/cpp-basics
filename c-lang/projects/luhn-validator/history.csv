@@ -1,3 +1,4 @@
 date,time,network,category,masked_number,status
 2026-11-01,14:34:10,Unknown,Debit,**** **** ** 7402,INVALID
 2026-11-01,14:35:13,Visa,Credit,**** **** **** 1111,VALID
+2026-11-04,09:55:21,Discover,Credit,**** **** **** 1090,VALID
