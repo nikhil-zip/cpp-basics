@@ -2,7 +2,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-
 // Structure declaration
 struct Student {
     int roll;
@@ -10,7 +9,6 @@ struct Student {
     int age;
     float marks;
 };
-
 // Function declarations
 void addStudent();
 void viewStudents();
